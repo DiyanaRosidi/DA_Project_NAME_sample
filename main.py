@@ -1,7 +1,7 @@
 #########################################################################
 #Title: PYTHON Project Scenario - Data Analysis
 #Description: This program allows user to analyse.......
-#Name: <Diyana Rosidi>
+#Name: Diyana Rosidi
 #Group Name: <TheBlue757>
 #Class: <PN2004J>
 #Date: <16 Feb 2020>
