@@ -46,7 +46,7 @@ def sortCountry(df):
   print("The following dataframe are read as follows: \n")
   print(df)
 
-  #display a specific country (Australia) in column #33
+  #display a specific country (India, Pakistan, Sri Lanka, Saudi Arabia, Kuwait, UAE) in column #14,15,16,17,18 and 19
   country_label1 = df.columns[14]
   print("\n" + country_label1 + "was selected.")
   country_label2 = df.columns[15]
